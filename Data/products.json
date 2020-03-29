@@ -1,0 +1,56 @@
+[
+  {
+    "product_title": "Plastic Chairs",
+    "quantity_total": 1000,
+    "quantity_booked": 0,
+    "price": 100
+  },
+  {
+    "product_title": "Tiffany Chairs ",
+    "quantity_total": 5000,
+    "quantity_booked": 0,
+    "price": 50
+  },
+  {
+    "product_title": "Bridal Chair",
+    "quantity_total": 10,
+    "quantity_booked": 0,
+    "price": 1000
+  },
+  {
+    "product_title": "Plastic Round Tables",
+    "quantity_total": 100,
+    "quantity_booked": 0,
+    "price": 300
+  },
+  {
+    "product_title": "Plastic Rectangular Table",
+    "quantity_total": 90,
+    "quantity_booked": 0,
+    "price": 200
+  },
+  {
+    "product_title": "Steel Folding Table",
+    "quantity_total": 80,
+    "quantity_booked": 0,
+    "price": 500
+  },
+  {
+    "product_title": "Gas Stoves",
+    "quantity_total": 25,
+    "quantity_booked": 0,
+    "price": 40
+  },
+  {
+    "product_title": "Chair Covers",
+    "quantity_total": 6000,
+    "quantity_booked": 0,
+    "price": 20
+  },
+  {
+    "product_title": "Table Cloths",
+    "quantity_total": 500,
+    "quantity_booked": 0,
+    "price": 25
+  }
+]
